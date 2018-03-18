@@ -14,7 +14,7 @@ header .nav{
 	background: #fff;
 }
 
-/*LOGO*/
+/*------LOGO-------------*/
 
 header .logo h2,header .logo span,header .logo p{
 
@@ -37,7 +37,7 @@ header .logo p {
 	color: #777777;
 }
 
-/*Menu*/
+/*--------Menu-------*/
 
 header .menu{
 	padding: 0;
@@ -73,6 +73,16 @@ header .menu .c-2:hover{
 }
 header .menu .c-3:hover{
 	background: #002d44;
+}
+
+
+/*----- Slider ------*/
+.slider {
+	margin-bottom:40px; 
+}
+
+.slider .col{
+	padding: 0px;
 }
 
 /* --- MEDIAQUERIES ---  */
